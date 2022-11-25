@@ -18,5 +18,13 @@ According to the data presented in the graph, it can be concluded that fare pric
 
 ## Summary 
 
+Based on the results from the data the following recommendations can be made to address disparities between city types:
 
+1. As Rural cities tend to have the least amount of rides and on average the highest fares, a loyalty program could be implemended rewarding users in rural cities with discounts and incentives to increase the amount of rides they take. 
+2. For Urban cities, finding out which cities have hotspots and further delving into that data might be more helpful in determining length of trips and which specific areas riders are requesting. 
+3. Looking at surge pricing and how it specifically affects all three city types can help address the disparity between the fare pricing, amount of drivers in a city, total rides, and average fare per driver. 
+
+### For Further Consideration
+
+After doing an analysis on the provided data, in order to truly determine the disparities between the three city type and to delve even further into Urban cities, more data is needed. I would suggest comparing data year over year, in order to see if the amount of riders and fare price is increasing or decreasing. 
 
