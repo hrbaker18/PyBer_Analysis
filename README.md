@@ -26,5 +26,5 @@ Based on the results from the data the following recommendations can be made to 
 
 ### For Further Consideration
 
-After doing an analysis on the provided data, in order to truly determine the disparities between the three city type and to delve even further into Urban cities, more data is needed. I would suggest comparing data year over year, in order to see if the amount of riders and fare price is increasing or decreasing. 
+After doing an analysis on the provided data, in order to truly determine the disparities between the three city type and to delve even further into Urban cities, more data is needed. I would suggest comparing data year over year, in order to delve further into the disparities, and to look at the correlation between the amount of riders, amount of drivers, and fare price. 
 
